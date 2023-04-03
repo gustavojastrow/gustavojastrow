@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EEE8AA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Jastrow;I'm+20+years+old;I'm+from+Brazil;I'm+Currently+Graduating+Information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66CDAA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Jastrow;I'm+20+years+old;I'm+from+Brazil;I'm+Currently+Graduating+Information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavojastrow&bg_color=EEE8AA&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavojastrow&bg_color=EEE8AA&color=66CDAA&line=66CDAA&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -34,9 +34,9 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gustavojastrow}/count.svg" /></p> 
 <br>
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEE8AA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=footer"/>
