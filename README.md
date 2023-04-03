@@ -6,6 +6,7 @@
 
 
 
+![outlook-logo](https://user-images.githubusercontent.com/81244208/229514331-7e6780ef-c94a-45e0-b852-967027a2113c.jpg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavojastrow&show_icons=true&count_private=true&hide_border=true&title_color=EEE8AA&icon_color=ff91a4&text_color=66CDAA&bg_color=0d1117" alt="Gustavo Jastrow github stats" /> 
@@ -15,7 +16,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/gustavojastrow_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.jaastrow@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.jaastrow@hotmail.com"> <img src="https://user-images.githubusercontent.com/81244208/229514331-7e6780ef-c94a-45e0-b852-967027a2113c.jpg" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-jastrow/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
