@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66CDAA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Jastrow;I'm+20+years+old;I'm+from+Brazil;I'm+Currently+Graduating+Information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavojastrow&bg_color=0d1117&color=66CDAA&line=66CDAA&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavojastrow&bg_color=0d1117&color=66CDAA&line=66CDAA&point=EEE8AA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavojastrow&show_icons=true&count_private=true&hide_border=true&title_color=EEE8AA&icon_color=ff91a4&text_color=66CDAA&bg_color=0d1117" alt="Gustavo Jastrow github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavojastrow&show_icons=true&count_private=true&hide_border=true&title_color=EEE8AA&icon_color=EEE8AAtext_color=66CDAA&bg_color=0d1117" alt="Gustavo Jastrow github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojastrow&layout=compact&hide_border=true&title_color=EEE8AA&text_color=66CDAA&bg_color=0d1117" />
 </div>
 
