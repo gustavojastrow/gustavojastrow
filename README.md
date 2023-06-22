@@ -4,6 +4,10 @@ Estudante dedicado de TI em busca de oportunidades para aplicar minhas habilidad
 Atualmente estudando programaçao por meio da Alura
 https://cursos.alura.com.br/user/jaastrow/fullCertificate/0bb693d5bc1148417e74534354612fd5
 
+## Main skills
+Desenvolvimento BACK-END com Java e SpringBoot + Banco de dados relacional ou não relacional.
+REST Api
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavojastrow_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-jastrow) 
 
