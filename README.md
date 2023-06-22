@@ -6,6 +6,7 @@ https://cursos.alura.com.br/user/jaastrow/fullCertificate/0bb693d5bc1148417e7453
 
 ## Main skills
 Desenvolvimento BACK-END com Java e SpringBoot + Banco de dados relacional ou não relacional.
+
 REST Api
 
 ## 🌐 Socials:
