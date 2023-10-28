@@ -1,11 +1,14 @@
 # 💫 About Me:
-Estudante dedicado de TI em busca de oportunidades para aplicar minhas habilidades e<br>conhecimentos em um ambiente profissional. Tenho paixão pela resolução de problemas<br>complexos por meio da tecnologia e estou ansioso para contribuir com uma equipe dinâmica<br>em um ambiente de trabalho colaborativo.
+# BUSCANDO ESTÁGIO DE DESENVOLVIMENTO
 
-Atualmente estudando programaçao por meio da Alura
+ Atualmente moro no interior do estado do ES em Santa Maria de Jetibá, sou estudante de Sistemas de Informação e tenho o sonho de conseguir meu primeiro estágio na área de desenvolvimento Back-end ou Full-Stack.
+ Nos últimos meses venho desenvolvendo diversos projetos (Java + Springboot) e adicionando no meu github para conseguir colocar em prática todo o meu conhecimento. Tenho facilidade de aprendizado, gosto de conhecer novas tecnologias e sou extremamente dedicado e flexível..
+
+Atualmente estudando programaçao na universidade e pela Alura:
 https://cursos.alura.com.br/user/jaastrow/fullCertificate/0bb693d5bc1148417e74534354612fd5
 
 ## Main skills
-Desenvolvimento BACK-END com Java e SpringBoot + Banco de dados relacional ou não relacional.
+Desenvolvimento FULL STACK com Java e SpringBoot + REACT + Banco de dados relacional ou não relacional.
 
 REST Api
 
