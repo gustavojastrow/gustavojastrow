@@ -13,8 +13,5 @@ C# ASP NET, Angular e SQL Server.
 Linkedin:
 https://www.linkedin.com/in/gustavo-jastrow/
 
-github:
-https://github.com/gustavojastrow
-
 certificação Alura:
 https://cursos.alura.com.br/user/jaastrow/fullCertificate/0bb693d5bc1148417e74534354612fd5
